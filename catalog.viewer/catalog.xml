@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+<catalog xsi:noNamespaceSchemaLocation="catalog.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<year y="2014">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1444" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1444"/>
+		<film number="1445" author="roumen" camera="Olympus 35 SP" type="sw" xumber="r11_1407"/>
+		<film number="1446" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1407"/>
+		<film number="1447" author="roumen" camera="Canon F-1 New" type="sw" xumber="r11_1407"/>
+		<film number="1448" author="roumen" camera="Canon F-1 New" type="sw" xumber="r11_1407"/>
+		<film number="1449" author="roumen" camera="Nikon FM3a" type="sw" xumber="r11_1419"/>
+		<film number="1450" author="roumen" camera="Konika Hi Matic 7s II" type="sw" xumber="r11_1429"/>
+		<film number="1451" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1451"/>
+		<film number="1454" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1454"/>
+		<film number="1457" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1454"/>
+	<!--Farb Negativ-->
+	<!--Farb Positiv-->
+	</year>
+
+	<year y="2013">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1444" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1444"/>
+		<film number="1445" author="roumen" camera="Olympus 35 SP" type="sw" xumber="r11_1407"/>
+		<film number="1446" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1407"/>
+		<film number="1447" author="roumen" camera="Canon F-1 New" type="sw" xumber="r11_1407"/>
+		<film number="1448" author="roumen" camera="Canon F-1 New" type="sw" xumber="r11_1407"/>
+		<film number="1449" author="roumen" camera="Nikon FM3a" type="sw" xumber="r11_1419"/>
+		<film number="1450" author="roumen" camera="Konika Hi Matic 7s II" type="sw" xumber="r11_1429"/>
+		<film number="1451" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1451"/>
+		<film number="1454" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1454"/>
+		<film number="1457" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1454"/>
+	<!--Farb Negativ-->
+	<!--Farb Positiv-->
+	</year>
+<!--Jahr 2012: Arthur-->
+	<year y="2012">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1435" author="roumen" camera="Canon AE-1" type="sw" xumber="i11_1435"/>
+		<film number="1436" author="roumen" camera="Canon AE-1" type="sw" xumber="i11_1435"/>
+		<film number="1444" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1444"/>
+		<film number="1445" author="roumen" camera="Olympus 35 SP" type="sw" xumber="r11_1407"/>
+		<film number="1446" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1407"/>
+		<film number="1447" author="roumen" camera="Canon F-1 New" type="sw" xumber="r11_1407"/>
+		<film number="1448" author="roumen" camera="Canon F-1 New" type="sw" xumber="r11_1407"/>
+		<film number="1449" author="roumen" camera="Nikon FM3a" type="sw" xumber="r11_1419"/>
+		<film number="1450" author="roumen" camera="Konika Hi Matic 7s II" type="sw" xumber="r11_1429"/>
+		<film number="1451" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1451"/>
+		<film number="1454" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1454"/>
+		<film number="1457" author="ivana" camera="Kodak Retina IIIc" type="sw" xumber="i11_1454"/>
+	<!--Farb Negativ-->
+	<!--Farb Positiv-->
+	</year>
+<!--Jahr 2011: Arthur-->
+	<year y="2011">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1418" author="roumen" camera="Leica MP" type="sw" xumber="r11_1418"/>
+		<film number="1419" author="roumen" camera="Nikon FM3a" type="sw" xumber="r11_1419"/>
+		<film number="1420" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1420"/>
+		<film number="1421" author="ivana" camera="Rolleiflex 2.8E" type="sw" xumber="i31_1421"/>
+		<film number="1422" author="ivana" camera="Rolleiflex 2.8E" type="sw" xumber="i31_1422"/>
+		<film number="1423" author="ivana" camera="Rolleiflex 2.8E" type="sw" xumber="i31_1423"/>
+		<film number="1424" author="ivana" camera="Mamiya 645 Super" type="sw" xumber="i21_1424"/>
+		<film number="1424" author="roumen" camera="Mamiya 645 Super" type="sw" xumber="r21_1424"/>
+		<film number="1425" author="roumen" camera="Olympus OM-2n" type="sw" xumber="r11_1425"/>
+		<film number="1426" author="roumen" camera="Nikon FM3a" type="sw" xumber="r11_1426"/>
+		<film number="1427" author="ivana" camera="Rolleiflex 3.5 Automat II" type="sw" xumber="i31_1427"/>
+		<film number="1428" author="roumen" camera="Konica Autoreflex TC" type="sw" xumber="r11_1428"/>
+		<film number="1429" author="roumen" camera="Konika Hi Matic 7s II" type="sw" xumber="r11_1429"/>
+		<film number="1430" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1430"/>
+		<film number="1431" author="roumen" camera="Olympus OM-2n" type="sw" xumber="r11_1431"/>
+		<film number="1432" author="ivana" camera="Ercona II" type="sw" xumber="i61_1432"/>
+		<film number="1433" author="roumen" camera="Rollei SL66" type="sw" xumber="r31_1433"/>
+	<!--Farb Negativ-->
+		<film number="3244" author="ivana" camera="Kodak Retina IIIc" type="fn" xumber="i12_3244"/>
+		<film number="3245" author="ivana" camera="Kodak Retina IIIc" type="fn" xumber="i12_3244"/>
+		<film number="3246" author="ivana" camera="Kodak Retina IIIc" type="fn" xumber="i12_3244"/>
+		<film number="3247" author="roumen" camera="Nikon F100" type="fn" xumber="i12_3244"/>
+		<film number="3248" author="roumen" camera="Nikon FM3a" type="fn" xumber="i12_3244"/>
+		<film number="3249" author="roumen" camera="Nikon FM3a" type="fn" xumber="i12_3244"/>
+		<film number="3250" author="roumen" camera="Nikon FM3a" type="fn" xumber="i12_3244"/>
+		<film number="3251" author="ivana" camera="Kodak Retina IIIc" type="fn" xumber="i12_3244"/>
+		<film number="3252" author="roumen" camera="Nikon FM3a" type="fn" xumber="i12_3244"/>
+		<film number="3253" author="ivana" camera="Kodak Retina IIIc" type="fn" xumber="i12_3244"/>
+	<!--Schwarz Weiß Positiv-->
+		<film number="4021" author="roumen" camera="Minolta XD7"  type="sd" xumber="r15_4021"/>
+	<!--Farb Positiv-->
+		<film number="2102" author="roumen" camera="Nikon FM3a" type="fn" xumber="i16_2102"/>
+		<film number="2103" author="ivana" camera="Kodak Retina IIIc" type="fn" xumber="i16_2103"/>
+	</year>
+<!--Jahr 2010: Arthur, Nördlingen-->
+	<year y="2010">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1406" author="ivana" camera="Mamiya 645 Super" type="sw" xumber="i21_1406"/>
+		<film number="1407" author="roumen" camera="Leica MP" type="sw" xumber="r11_1407"/>
+		<film number="1408" author="roumen" camera="Leica MP" type="sw" xumber="r11_1408"/>
+		<film number="1409" author="roumen" camera="Kodak Retina IIIc" type="sw" xumber="r11_1409"/>
+		<film number="1410" author="ivana" camera="Rolleiflex 2.8E " type="sw" xumber="i21_1410"/>
+		<film number="1411" author="roumen" camera="Olympus OM-1n" type="sw" xumber="r11_1411"/>
+		<film number="1412" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1412"/>
+		<film number="1413" author="roumen" camera="Olympus OM-1nP" type="sw" xumber="r11_1413"/>
+		<film number="1414" author="roumen" camera="Rollei SL66" type="sw" xumber="r11_1414"/>
+		<film number="1416" author="roumen" camera="Mamiya 645 Super" type="sw" xumber="r21_1416"/>
+		<film number="1417" author="roumen" camera="Mamiya 645 Super" type="sw" xumber="r21_1417"/>
+	<!--Farb Negativ-->
+		<film number="3237" author="roumen" camera="Leica MP" type="fn" xumber="r12_3237"/>
+		<film number="3238" author="roumen" camera="Canon AE-1" type="fn" xumber="r12_3238"/>
+		<film number="3239" author="ivana" camera="Minolta XD7" type="fn" xumber="i12_3239"/>
+		<film number="3240" author="roumen" camera="Nikon FM3a"  type="fn" xumber="r12_3240"/>
+		<film number="3241" author="ivana" camera="Minolta XD7"  type="fn" xumber="ii2_3241"/>
+		<film number="3241" author="roumen" camera="Minolta XD7"  type="fn" xumber="ri2_3241"/>
+		<film number="3242" author="roumen" camera="Canon A-1"  type="fn" xumber="r12_3242"/>
+		<film number="3243" author="roumen" camera="Kodak Retina IIIc"  type="fn" xumber="i12_3243"/>
+	<!--Farb Positiv-->
+		<film number="2100" author="ivana" camera="Любитель 2" type="fp" xumber="i36_2100"/>
+		<film number="2101" author="roumen" camera="Mamiya 645 Super" type="fp" xumber="r26_2101"/>
+	</year>
+<!--Jahr 2009: Lisboa, Arthur-->
+	<year y="2009">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1375" author="ivana" camera="Rolleiflex 2.8E" type="sw" xumber="i31_1375"/>
+		<film number="1376" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1376"/>
+		<film number="1377" author="ivana" camera="Rolleiflex 2.8E" type="sw" xumber="i31_1377"/>
+		<film number="1378" author="ivana" camera="Minolta XD7" type="sw" xumber="i11_1378"/>
+		<film number="1379" author="ivana" camera="Mamiya 645 Super"  type="sw" xumber="i21_1379"/>
+		<film number="1381" author="roumen" camera="Leica MP" type="sw" xumber="r11_1381"/>
+		<film number="1380" author="ivana" camera="Mamiya 645 Super" type="sw" xumber="i21_1380"/>
+		<film number="1382" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1382"/>
+		<film number="1383" author="ivana" camera="Rolleiflex 2.8E" type="sw" xumber="i31_1383"/>
+		<film number="1384" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1384"/>
+		<film number="1385" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1385"/>
+		<film number="1386" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1386"/>
+		<film number="1387" author="roumen" camera="Leica MP" type="sw" xumber="r11_1387"/>
+		<film number="1388" author="roumen" camera="Leica MP" type="sw" xumber="r11_1388"/>
+		<film number="1389" author="ivana" camera="Olympus OM-1N" type="sw" xumber="i11_1389"/>
+		<film number="1390" author="ivana" camera="Olympus OM-1N" type="sw" xumber="i11_1390"/>
+		<film number="1392" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1392"/>
+		<film number="1393" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1393"/>
+		<film number="1394" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1394"/>
+		<film number="1395" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1395"/>
+		<film number="1396" author="ivana" camera="Nikon F100" type="sw" xumber="i11_1396"/>
+		<film number="1397" author="roumen" camera="Leica MP" type="sw" xumber="r11_1397"/>
+		<film number="1398" author="roumen" camera="Leica MP" type="sw" xumber="r11_1398"/>
+		<film number="1399" author="roumen" camera="Mamiya 645 Super"  type="sw" xumber="r21_1399"/>
+		<film number="1400" author="roumen" camera="Mamiya 645 Super"  type="sw" xumber="r21_1400"/>
+		<film number="1401" author="roumen" camera="Mamiya 645 Super" type="sw" xumber="r21_1401"/>
+		<film number="1402" author="roumen" camera="Mamiya 645 Super"  type="sw" xumber="r21_1402"/>
+		<film number="1403" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1403"/>
+		<film number="1404" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1404"/>
+		<film number="1405" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1405"/>
+	<!--Farb Negativ-->
+		<film number="3217" author="roumen" camera="Olympus OM-1N" type="fn" xumber="r12_3217"/>
+		<film number="3218" author="ivana" camera="Mamiya 645 Super" type="fn" xumber="i22_3218"/>
+		<film number="3219" author="ivana" camera="Mamiya 645 Super"  type="fn" xumber="i22_3219"/>
+		<film number="3220" author="ivana" camera="Olympus OM-1N" type="fn" xumber="i12_3220"/>
+		<film number="3221" author="ivana" camera="Olympus OM-1N" type="fn" xumber="i12_3221"/>
+		<film number="3222" author="ivana" camera="Olympus OM-1N" type="fn" xumber="i12_3222"/>
+		<film number="3223" author="roumen" camera="Olympus OM-1N" type="fn" xumber="r12_3223"/>
+		<film number="3224" author="roumen" camera="Leica MP" type="fn" xumber="r12_3224"/>
+		<film number="3225" author="ivana" camera="Nikon F100" type="fn" xumber="i12_3225"/>
+		<film number="3226" author="roumen" camera="Nikon FM3a" type="fn" xumber="r12_3226"/>
+		<film number="3227" author="roumen" camera="Minolta XD7" type="fn" xumber="r12_3227"/>
+		<film number="3228" author="roumen" camera="Nikon FM3a" type="fn" xumber="r12_3228"/>
+		<film number="3229" author="roumen" camera="Leica MP" type="fn" xumber="r12_3229"/>
+		<film number="3230" author="roumen" camera="Leica MP" type="fn" xumber="r12_3230"/>
+		<film number="3231" author="roumen" camera="Leica MP" type="fn" xumber="r12_3231"/>
+		<film number="3232" author="ivana" camera="Nikon F100" type="fn" xumber="i12_3232"/>
+		<film number="3233" author="ivana" camera="Nikon F80" type="fn" xumber="i12_3233"/>
+		<film number="3234" author="roumen" camera="Canon A-1" type="fn" xumber="r12_3234"/>
+		<film number="3235" author="roumen" camera="Olympus OM-1N" type="fn" xumber="r12_3235"/>
+		<film number="3236" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3236"/>
+	<!--Farb Positiv-->
+		<film number="2094" author="roumen" camera="Leica MP" type="fp" xumber="r16_2094"/>
+		<film number="2095" author="roumen" camera="Leica MP" type="fp" xumber="r16_2095"/>
+		<film number="2096" author="roumen" camera="Leica MP" type="fp" xumber="r16_2096"/>
+		<film number="2097" author="roumen" camera="Leica MP" type="fp" xumber="r16_2097"/>
+		<film number="2098" author="roumen" camera="Mamiya 645 Super" type="fp" xumber="r26_2098"/>
+		<film number="2099" author="roumen" camera="Rolleiflex 2.8E" type="fp" xumber="r36_2099"/>
+	</year>
+<!--Jahr 2008: Lisboa,Wien-->
+	<year y="2008">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1337" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1337"/>
+		<film number="1338" author="roumen" camera="Зоркий 6" type="sw" xumber="r11_1338"/>
+		<film number="1339" author="roumen" camera="Pentax MX" type="sw" xumber="r11_1339"/>
+		<film number="1340" rank="1" author="roumen" camera="Pentax MX" type="sw" xumber="r11_1340"/>
+		<film number="1341" rank="1" author="roumen" camera="Pentax MX" type="sw" xumber="r11_1341"/>
+		<film number="1342" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1342"/>
+		<film number="1343" rank="1" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1343"/>
+		<film number="1344" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1344"/>
+		<film number="1345" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1345"/>
+		<film number="1346" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1346"/>
+		<film number="1347" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1347"/>
+		<film number="1348" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1348"/>
+		<film number="1349" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1349"/>
+		<film number="1350" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1350"/>
+		<film number="1351" rank="1" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1351"/>
+		<film number="1352" author="roumen" camera="Pentax MX" type="sw" xumber="r11_1352"/>
+		<film number="1353" author="roumen" type="sw" xumber="r31_1353" state="missing"/>
+		<film number="1354" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1354"/>
+		<film number="1355" author="roumen" camera="Leica MP" type="sw" xumber="r11_1355"/>
+		<film number="1356" author="roumen" camera="Leica MP" type="sw" xumber="r11_1356"/>
+		<film number="1357" author="roumen" camera="Pentax MX" type="sw" xumber="r11_1357"/>
+		<film number="1358" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1358"/>
+		<film number="1359" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1359"/>
+		<film number="1360" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1360"/>
+		<film number="1361" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1361"/>
+		<film number="1362" author="roumen" camera="Pentax MX" type="sw" xumber="r11_1362"/>
+		<film number="1363" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1363"/>
+		<film number="1364" author="roumen" camera="Mamiya 645 Super" type="sw" xumber="r21_1364"/>
+		<film number="1365" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1365"/>
+		<film number="1366" author="roumen" camera="Mamiya 645 Super" type="sw" xumber="r21_1366"/>
+		<film number="1367" author="roumen" camera="Leica MP" type="sw" xumber="r11_1367"/>
+		<film number="1368" author="roumen" type="sw" xumber="r11_1349"/>
+		<film number="1369" author="roumen" camera="Rolleiflex 2.8E" type="sw" xumber="r31_1369"/>
+		<film number="1370" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1370"/>
+		<film number="1371" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1371"/>
+		<film number="1372" author="roumen" camera="Nikon FM3a" type="sw" xumber="r11_1372"/>
+		<film number="1373" author="ivana" camera="Nikon F80" type="sw" xumber="i11_1373"/>
+		<film number="1374" author="ivana" camera="Nikon F80" type="sw" xumber="i11_1374"/>
+		<film number="1391" author="ivana" camera="Nikon F80" type="sw" xumber="i11_1391"/>
+	<!--Farb Negativ-->
+		<film number="3207" author="roumen" camera="Rolleiflex SL66" type="fn" xumber="r32_3207" state="incomplete"/>
+		<film number="3208" author="roumen" camera="Rolleiflex 2.8E" type="fn" xumber="r32_3208"/>
+		<film number="3209" author="roumen" camera="Rolleiflex 2.8E" type="fn" xumber="r32_3209"/>
+		<film number="3210" author="roumen" camera="Leica MP" type="fn" xumber="r12_3210"/>
+		<film number="3211" author="roumen" camera="Leica MP" type="fn" xumber="r12_3211"/>
+		<film number="3212" author="roumen" camera="Leica MP" type="fn" xumber="r12_3212"/>
+		<film number="3213" author="ivana" camera="Nikon F80" type="fn" xumber="i12_3213"/>
+		<film number="3214" author="roumen" camera="Canon A-1" type="fn" xumber="r12_3214"/>
+		<film number="3215" author="roumen" camera="Leica MP" type="fn" xumber="r12_3215"/>
+		<film number="3216" author="roumen" camera="Nikon FM3a" type="fn" xumber="r12_3216"/>
+	<!--Farb Positiv-->
+		<film number="2090" author="roumen" camera="Rolleiflex 2.8E" type="fp" xumber="r36_2090" state="incomplete"/>
+		<film number="2091" author="roumen" camera="Rolleiflex 2.8E" type="fp" xumber="r36_2091" state="missing"/>
+		<film number="2092" author="roumen" camera="Leica MP" type="fp" xumber="r16_2092"/>
+		<film number="2093" author="roumen" camera="Rolleiflex SL66" type="fp" xumber="r36_2093"/>
+	</year>
+<!--Jahr 2007: Sofia-->
+	<year y="2007">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1284" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1284"/>
+		<film number="1287" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1287"/>
+		<film number="1288" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1288"/>
+		<film number="1289" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1289"/>
+		<film number="1292" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1292"/>
+		<film number="1293" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1293"/>
+		<film number="1294" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1294"/>
+		<film number="1299" rank="1" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1299"/>
+		<film number="1300" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1300"/>
+		<film number="1301" author="roumen" camera="Canon AE-1" type="sw" xumber="r11_1301"/>
+		<film number="1302" author="silvia" type="sw" xumber="s11_1302"/>
+		<film number="1303" author="silvia" type="sw" xumber="s11_1303"/>
+		<film number="1304" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1304"/>
+		<film number="1305" author="silvia" type="sw" xumber="s11_1305"/>
+		<film number="1306" author="silvia" type="sw" xumber="s21_1306"/>
+		<film number="1307" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1307"/>
+		<film number="1308" author="silvia" type="sw" xumber="s21_1306"/>
+		<film number="1309" author="roumen" camera="Rolleiflex SL66"  type="sw" xumber="r31_1309"/>
+		<film number="1310" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1310"/>
+		<film number="1311" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1311"/>
+		<film number="1312" author="silvia" type="sw" xumber="s11_1312" state="missing"/>
+		<film number="1313" author="silvia" type="sw" xumber="s11_1313" state="missing"/>
+		<film number="1314" author="silvia" type="sw" xumber="s11_1314" state="missing"/>
+		<film number="1315" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1315"/>
+		<film number="1316" author="roumen" camera="Canon AV-1" type="sw" xumber="r11_1316"/>
+		<film number="1317" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1317"/>
+		<film number="1318" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1318"/>
+		<film number="1319" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1319"/>
+		<film number="1320" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1320"/>
+		<film number="1321" author="silvia" type="sw" xumber="s11_1321" state="missing"/>
+		<film number="1322" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1322"/>
+		<film number="1323" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1323"/>
+		<film number="1324" author="roumen" camera="Canon A-1" type="sw" xumber="r11_1324"/>
+		<film number="1325" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1325"/>
+		<film number="1326" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1326"/>
+		<film number="1327" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1327"/>
+		<film number="1328" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1328"/>
+		<film number="1329" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1329"/>
+		<film number="1330" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1330"/>
+		<film number="1331" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1331"/>
+		<film number="1332" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1332"/>
+		<film number="1333" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1333"/>
+		<film number="1334" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1334"/>
+		<film number="1335" author="roumen" camera="Olympus OM-1N" type="sw" xumber="r11_1335"/>
+		<film number="1336" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1336"/>
+	<!--Farb Negativ-->
+		<film number="3186" author="roumen" camera="Rolleiflex SL66" type="fn" xumber="r32_3186"/>
+		<film number="3187" author="roumen" camera="Зоркий 6" type="fn" xumber="r12_3187"/>
+		<film number="3188" author="roumen" camera="Зоркий 6" type="fn" xumber="r12_3188"/>
+		<film number="3189" author="roumen" camera="Зоркий 6" type="fn" xumber="r12_3189"/>
+		<film number="3190" author="roumen" type="fn" xumber="r22_3190"/>
+		<film number="3191" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3191"/>
+		<film number="3192" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3192"/>
+		<film number="3193" author="silvia" type="fn" xumber="s12_3193"/>
+		<film number="3194" author="silvia" type="fn" xumber="s12_3194"/>
+		<film number="3195" author="silvia" type="fn" xumber="s12_3195"/>
+		<film number="3196" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3196"/>
+		<film number="3197" author="roumen" camera="Canon AE-1" type="fn" xumber="r12_3197"/>
+		<film number="3198" author="silvia" type="fn" xumber="s12_3198" state="missing"/>
+		<film number="3199" author="roumen" camera="Olympus OM-1N" type="fn" xumber="r12_3199"/>
+		<film number="3200" author="roumen" camera="Canon AE-1" type="fn" xumber="r12_3200"/>
+		<film number="3201" author="roumen" camera="Minolta srT Super" type="fn" xumber="r12_3201"/>
+		<film number="3202" author="roumen" camera="Canon AE-1" type="fn" xumber="r12_3202"/>
+		<film number="3203" author="roumen" camera="Minolta XD7" type="fn" xumber="r12_3203"/>
+		<film number="3204" author="silvia" type="fn" xumber="s22_3204" state="missing"/>
+		<film number="3205" author="silvia" type="fn" xumber="s22_3205" state="missing"/>
+		<film number="3206" author="roumen" camera="Olympus OM-1N" type="fn" xumber="r12_3206"/>
+	<!--Schwarz Weiß Positiv-->
+		<film number="4007" author="silvia" type="sd" xumber="s15_4007"/>
+		<film number="4008" author="roumen" camera="Rolleiflex SL66" type="sd" xumber="r35_4008"/>
+		<film number="4009" author="roumen" camera="Canon AE-1" type="sd" xumber="r15_4009"/>
+		<film number="4010" author="roumen" camera="Nikon F100"  type="sd" xumber="r15_4010"/>
+		<film number="4011" author="roumen" camera="Rolleiflex SL66" type="sd" xumber="r35_4011"/>
+		<film number="4012" author="roumen" camera="Canon AE-1" type="sd" xumber="r15_4012"/>
+		<film number="4013" author="roumen" camera="Olympus OM-1N" type="sd" xumber="r15_4013"/>
+		<film number="4014" author="roumen" camera="Olympus OM-1N" type="sd" xumber="r15_4014"/>
+		<film number="4015" author="roumen" camera="Rolleiflex SL66" type="sd" xumber="r35_4015"/>
+		<film number="4019" author="roumen" camera="Rolleiflex SL66" type="sd" xumber="r35_4019"/>
+	<!--Farb Positiv-->
+		<film number="2086" author="roumen" camera="Rolleiflex SL66" type="fp" xumber="r36_2086"/>
+		<film number="2087" author="roumen" camera="Olympus OM-1N" type="fp" xumber="r16_2087"/>
+		<film number="2088" author="roumen" camera="Rolleiflex SL66" type="fp" xumber="r36_2088"/>
+		<film number="2089" author="roumen" camera="Rolleiflex SL66" type="fp" xumber="r36_2089"/>
+		</year>
+<!--Jahr 2006: Turkey-->
+	<year y="2006">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1198" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1198"/>
+		<film number="1199" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1199"/>
+		<film number="1200" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1200"/>
+		<film number="1201" author="silvia" type="sw" xumber="s21_1201"/>
+		<film number="1202" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1202"/>
+		<film number="1203" author="silvia" type="sw" xumber="s11_1203"/>
+		<film number="1204" author="silvia" type="sw" xumber="s21_1204"/>
+		<film number="1205" author="silvia" type="sw" xumber="s21_1205"/>
+		<film number="1206" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1206"/>
+		<film number="1207" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1207"/>
+		<film number="1208" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1208"/>
+		<film number="1209" rank="1" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1209"/>
+		<film number="1210" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1210"/>
+		<film number="1211" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1211"/>
+		<film number="1212" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1212"/>
+		<film number="1213" author="silvia" type="sw" xumber="s21_1213"/>
+		<film number="1214" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1214"/>
+		<film number="1215" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1215"/>
+		<film number="1216" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1216"/>
+		<film number="1217" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1217"/>
+		<film number="1218" author="roumen" camera="Mamiya RZ-67" type="sw" xumber="r41_1218"/>
+		<film number="1219" author="roumen" camera="Mamiya RZ-67" type="sw" xumber="r41_1219"/>
+		<film number="1220" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1220"/>
+		<film number="1221" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1221"/>
+		<film number="1222" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1222"/>
+		<film number="1223" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1223"/>
+		<film number="1224" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1224"/>
+		<film number="1225" author="silvia" type="sw" xumber="s11_1225"/>
+		<film number="1226" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1226"/>
+		<film number="1227" author="silvia" type="sw" xumber="s11_1227"/>
+		<film number="1228" author="silvia" type="sw" xumber="s11_1228"/>
+		<film number="1229" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1229"/>
+		<film number="1230" author="silvia" type="sw" xumber="s11_1230"/>
+		<film number="1231" author="silvia" type="sw" xumber="s11_1231"/>
+		<film number="1232" author="silvia" type="sw" xumber="s11_1232"/>
+		<film number="1233" author="silvia" type="sw" xumber="s11_1233"/>
+		<film number="1234" author="silvia" type="sw" xumber="s11_1234"/>
+		<film number="1235" author="silvia" type="sw" xumber="s11_1235"/>
+		<film number="1236" author="silvia" type="sw" xumber="s21_1236"/>
+		<film number="1237" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1237"/>
+		<film number="1238" author="silvia" type="sw" xumber="s11_1238"/>
+		<film number="1239" author="silvia" type="sw" xumber="s11_1239"/>
+		<film number="1240" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1240"/>
+		<film number="1241" author="silvia" type="sw" xumber="s11_1241"/>
+		<film number="1242" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1242"/>
+		<film number="1243" author="silvia" type="sw" xumber="s11_1243"/>
+		<film number="1244" author="silvia" type="sw" xumber="s11_1244"/>
+		<film number="1245" author="silvia" type="sw" xumber="s11_1245"/>
+		<film number="1246" author="silvia" type="sw" xumber="s11_1246"/>
+		<film number="1247" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1247"/>
+		<film number="1248" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1248"/>
+		<film number="1249" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1249"/>
+		<film number="1250" author="silvia" type="sw" xumber="s11_1250"/>
+		<film number="1251" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1251"/>
+		<film number="1252" author="silvia" type="sw" xumber="s11_1252"/>
+		<film number="1253" author="silvia" type="sw" xumber="s11_1253"/>
+		<film number="1254" author="silvia" type="sw" xumber="s11_1254"/>
+		<film number="1255" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1255"/>
+		<film number="1256" author="silvia" type="sw" xumber="s11_1256"/>
+		<film number="1257" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1257"/>
+		<film number="1258" author="silvia" type="sw" xumber="s11_1258"/>
+		<film number="1259" author="silvia" type="sw" xumber="s11_1259"/>
+		<film number="1260" author="silvia" type="sw" xumber="s11_1260"/>
+		<film number="1261" author="silvia" type="sw" xumber="s11_1261"/>
+		<film number="1262" author="silvia" type="sw" xumber="s11_1262"/>
+		<film number="1263" author="silvia" type="sw" xumber="s11_1263"/>
+		<film number="1264" author="silvia" type="sw" xumber="s11_1264"/>
+		<film number="1265" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1265"/>
+		<film number="1266" author="silvia" type="sw" xumber="s11_1266"/>
+		<film number="1267" author="silvia" type="sw" xumber="s11_1267"/>
+		<film number="1268" author="silvia" type="sw" xumber="s11_1268"/>
+		<film number="1269" author="silvia" type="sw" xumber="s11_1269"/>
+		<film number="1270" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1270"/>
+		<film number="1271" author="silvia" type="sw" xumber="s11_1271" state="missing"/>
+		<film number="1272" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1272"/>
+		<film number="1273" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1273"/>
+		<film number="1274" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1274"/>
+		<film number="1275" author="roumen" camera="Canon Prima Super 120" type="sw" xumber="r11_1275"/>
+		<film number="1276" author="silvia" type="sw" xumber="s11_1276" state="missing"/>
+		<film number="1277" author="silvia" type="sw" xumber="s11_1277" state="missing"/>
+		<film number="1278" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1278"/>
+		<film number="1279" author="silvia" type="sw" xumber="s11_1279" state="missing"/>
+		<film number="1280" author="silvia" type="sw" xumber="s11_1280" state="missing"/>
+		<film number="1281" author="silvia" type="sw" xumber="s11_1281" state="missing"/>
+		<film number="1282" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1282"/>
+		<film number="1283" author="roumen" camera="Rolleiflex SL66" type="sw" xumber="r31_1283"/>
+	<!--Farb Negativ-->
+		<film number="3151" rank="0" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3151"/>
+		<film number="3152" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3152"/>
+		<film number="3153" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3153"/>
+		<film number="3154" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3154"/>
+		<film number="3155" author="silvia" camera="Nikon F100" type="fn" xumber="s12_3155"/>
+		<film number="3156" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3156"/>
+		<film number="3157" author="silvia" type="fn" xumber="s22_3157"/>
+		<film number="3158" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3158"/>
+		<film number="3159" author="roumen" camera="Любитель 2" type="fn" xumber="r32_3159"/>
+		<film number="3160" author="roumen" camera="Canon Prima Super 120" type="fn" xumber="r12_3160"/>
+		<film number="3161" author="silvia" type="fn" xumber="s22_3161"/>
+		<film number="3162" author="silvia" type="fn" xumber="s12_3162"/>
+		<film number="3163" author="silvia" type="fn" xumber="s12_3163"/>
+		<film number="3164" author="silvia" type="fn" xumber="s22_3164"/>
+		<film number="3165" author="roumen" camera="Любитель 2" type="fn" xumber="r32_3165"/>
+		<film number="3166" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3166"/>
+		<film number="3167" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3167"/>
+		<film number="3168" author="silvia" type="fn" xumber="s12_3168"/>
+		<film number="3169" author="roumen" camera="Зоркий 6" type="fn" xumber="r12_3169"/>
+		<film number="3170" author="silvia" type="fn" xumber="s22_3170"/>
+		<film number="3171" author="roumen" camera="Зоркий 6" type="fn" xumber="r12_3171"/>
+		<film number="3172" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3172"/>
+		<film number="3173" author="roumen" camera="Rolleiflex SL66" type="fn" xumber="r32_3173"/>
+		<film number="3174" author="silvia" type="fn" xumber="s22_3174"/>
+		<film number="3175" author="roumen" camera="Rolleiflex SL66" type="fn" xumber="r32_3175"/>
+		<film number="3176" author="silvia" type="fn" xumber="s22_3176" state="missing" />
+		<film number="3177" author="silvia" type="fn" xumber="s22_3177" state="missing"/>
+		<film number="3178" author="silvia" type="fn" xumber="s12_3178" state="missing"/>
+		<film number="3179" author="silvia" type="fn" xumber="s12_3179" state="missing"/>
+		<film number="3180" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3180"/>
+		<film number="3181" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3181"/>
+		<film number="3182" author="roumen" camera="Любитель 2" type="fn" xumber="r32_3182"/>
+		<film number="3183" author="roumen" camera="Nikon F80" type="fn" xumber="r12_3183"/>
+		<film number="3184" author="roumen" camera="Rolleiflex SL66" type="fn" xumber="r32_3184"/>
+		<film number="3185" author="roumen" camera="Rolleiflex SL66" type="fn" xumber="r32_3185"/>
+	<!--Schwarz Weiß Positiv-->
+		<film number="4001" author="roumen" camera="Mamiya 645 Pro" type="sd" xumber="r25_4001"/>
+		<film number="4002" author="roumen" camera="Mamiya 645 Pro" type="sd" xumber="r25_4002"/>
+		<film number="4003" author="silvia" type="sd" xumber="s15_4003" state="missing"/>
+		<film number="4004" author="silvia" type="sd" xumber="s15_4004" state="missing"/>
+		<film number="4005" author="silvia" type="sd" xumber="s15_4005" state="missing"/>
+		<film number="4006" author="silvia" type="sd" xumber="s15_4006" state="missing"/>
+	<!--Farb Positiv-->
+		<film number="2082" rank="0" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2082"/>
+		<film number="2083" author="silvia" type="fp" xumber="s16_2083"/>
+		<film number="2084" author="roumen" camera="Nikon F80" type="fp" xumber="r16_2084"/>
+		<film number="2085" author="roumen" camera="Nikon F80" type="fp" xumber="r16_2085"/>
+	</year>
+<!--Jahr 2005: Costa Rica-->
+	<year y="2005">
+<!--Schwarz Weiß Negativ-->
+		<film number="1153" author="silvia" type="sw" xumber="s11_1153"/>
+		<film number="1154" author="silvia" type="sw" xumber="s11_1154"/>
+		<film number="1155" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1155"/>
+		<film number="1156" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1156"/>
+		<film number="1157" author="silvia" type="sw" xumber="s11_1157"/>
+		<film number="1158" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1155"/>
+		<film number="1159" author="silvia" type="sw" xumber="s21_1159"/>
+		<film number="1160" author="silvia" type="sw" xumber="s21_1160"/>
+		<film number="1161" author="silvia" type="sw" xumber="s21_1161"/>
+		<film number="1162" author="silvia" type="sw" xumber="s21_1162"/>
+		<film number="1163" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1163"/>
+		<film number="1164" author="silvia" type="sw" xumber="s11_1164"/>
+		<film number="1165" author="silvia" type="sw" xumber="s11_1165"/>
+		<film number="1166" author="silvia" type="sw" xumber="s11_1166"/>
+		<film number="1167" author="silvia" type="sw" xumber="s11_1167"/>
+		<film number="1168" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1168"/>
+		<film number="1169" author="silvia" type="sw" xumber="s11_1169"/>
+		<film number="1170" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1170"/>
+		<film number="1171" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1171"/>
+		<film number="1172" author="silvia" type="sw" xumber="s11_1172"/>
+		<film number="1173" author="silvia" type="sw" xumber="s11_1173"/>
+		<film number="1174" author="silvia" type="sw" xumber="s11_1174"/>
+		<film number="1175" author="silvia" type="sw" xumber="s11_1175"/>
+		<film number="1176" author="silvia" type="sw" xumber="s11_1176"/>
+		<film number="1177" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1177"/>
+		<film number="1178" author="silvia" type="sw" xumber="s11_1178"/>
+		<film number="1179" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1179"/>
+		<film number="1180" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1180"/>
+		<film number="1181" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1181"/>
+		<film number="1182" author="silvia" type="sw" xumber="s11_1182"/>
+		<film number="1183" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1183"/>
+		<film number="1184" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1184"/>
+		<film number="1185" author="silvia" type="sw" xumber="s11_1185"/>
+		<film number="1186" author="silvia" type="sw" xumber="s11_1186"/>
+		<film number="1187" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1187"/>
+		<film number="1188" author="silvia" type="sw" xumber="s11_1188"/>
+		<film number="1189" author="silvia" type="sw" xumber="s11_1189"/>
+		<film number="1190" author="silvia" type="sw" xumber="s11_1190"/>
+		<film number="1191" author="silvia" type="sw" xumber="s11_1191"/>
+		<film number="1192" author="silvia" type="sw" xumber="s11_1192"/>
+		<film number="1193" author="silvia" type="sw" xumber="s11_1193"/>
+		<film number="1194" author="silvia" type="sw" xumber="s11_1194"/>
+		<film number="1195" author="silvia" type="sw" xumber="s11_1195"/>
+		<film number="1196" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1196"/>
+		<film number="1197" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1197"/>
+	<!--Farb Negativ-->
+		<film number="3135" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3135"/>
+		<film number="3136" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3136"/>
+		<film number="3137" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3137"/>
+		<film number="3138" author="silvia" type="fn" xumber="s12_3138"/>
+		<film number="3139" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3139"/>
+		<film number="3140" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3140"/>
+		<film number="3141" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3141"/>
+		<film number="3142" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3142"/>
+		<film number="3143" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3143"/>
+		<film number="3144" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3144"/>
+		<film number="3145" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3145"/>
+		<film number="3146" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3146"/>
+		<film number="3147" author="silvia" type="fn" xumber="s12_3147"/>
+		<film number="3148" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3148"/>
+		<film number="3149" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3149"/>
+		<film number="3150" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3150"/>
+	<!--Farb Positiv-->
+		<film number="2073" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2073"/>
+		<film number="2074" author="silvia" type="fp" xumber="s16_2074"/>
+		<film number="2075" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2075"/>
+		<film number="2076" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2076"/>
+		<film number="2077" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2077"/>
+		<film number="2078" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2078"/>
+		<film number="2079" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2079"/>
+		<film number="2080" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2080"/>
+		<film number="2081" author="roumen" camera="Mamiya 645 Pro" type="fp" xumber="r26_2081"/>
+	</year>
+<!--Jahr 2004: Egypt-->
+	<year y="2004">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1084" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1084"/>
+		<film number="1085" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1085"/>
+		<film number="1086" author="silvia" type="sw" xumber="s11_1086" state="missing"/>
+		<film number="1087" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1087"/>
+		<film number="1088" author="silvia" type="sw" xumber="s11_1088" state="missing"/>
+		<film number="1089" author="silvia" type="sw" xumber="s11_1089" state="missing"/>
+		<film number="1090" author="roumen" camera="Rolleicord Vb" type="sw" xumber="r31_1090"/>
+		<film number="1091" author="roumen" camera="Rolleicord Vb" type="sw" xumber="r31_1091"/>
+		<film number="1092" author="roumen" camera="Rolleiflex 3.5T" type="sw" xumber="r31_1092"/>
+		<film number="1093" author="roumen" camera="Rolleiflex 3.5T" type="sw" xumber="r31_1093"/>
+		<film number="1094" author="roumen" camera="Rolleiflex 3.5T" type="sw" xumber="r31_1094"/>
+		<film number="1095" author="silvia" type="sw" xumber="s11_1095" state="missing"/>
+		<film number="1096" author="silvia" type="sw" xumber="s11_1096" state="missing"/>
+		<film number="1097" author="silvia" type="sw" xumber="s11_1097" state="missing"/>
+		<film number="1098" author="silvia" type="sw" xumber="s11_1098" state="missing"/>
+		<film number="1099" author="roumen" camera="Rolleiflex 3.5T" type="sw" xumber="r31_1099" state="incomplete"/>
+		<film number="1100" rank="0" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1100"/>
+		<film number="1101" rank="0" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1101"/>
+		<film number="1102" author="silvia" type="sw" xumber="s11_1102" state="missing"/>
+		<film number="1103" author="silvia" type="sw" xumber="s11_1103" state="missing"/>
+		<film number="1104" author="silvia" type="sw" xumber="s11_1104" state="missing"/>
+		<film number="1105" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1105"/>
+		<film number="1106" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1106"/>
+		<film number="1107" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1107"/>
+		<film number="1108" author="silvia" type="sw" xumber="s11_1108"/>
+		<film number="1109" author="silvia" type="sw" xumber="s11_1109"/>
+		<film number="1110" rank="0" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1110"/>
+		<film number="1111" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1111"/>
+		<film number="1112" author="silvia" type="sw" xumber="s11_1112" state="missing"/>
+		<film number="1113" rank="0" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1113"/>
+		<film number="1114" author="silvia" type="sw" xumber="s11_1114" state="missing"/>
+		<film number="1115" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1115"/>
+		<film number="1116" rank="1" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1116"/>
+		<film number="1117" author="silvia" type="sw" xumber="s11_1117" state="missing"/>
+		<film number="1118" rank="0" author="roumen" type="sw" camera="Nikon F100" xumber="r11_1118"/>
+		<film number="1119" author="silvia" type="sw" xumber="s11_1119" state="missing"/>
+		<film number="1120" author="silvia" type="sw" xumber="s11_1120" state="missing"/>
+		<film number="1121" author="silvia" type="sw" xumber="s11_1121" state="missing"/>
+		<film number="1122" author="silvia" type="sw" xumber="s11_1122"/>
+		<film number="1123" author="silvia" type="sw" xumber="s11_1123"/>
+		<film number="1124" author="silvia" type="sw" xumber="s11_1124"/>
+		<film number="1125" author="silvia" type="sw" xumber="s11_1125"/>
+		<film number="1126" author="silvia" type="sw" xumber="s11_1126" state="missing"/>
+		<film number="1127" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1127"/>
+		<film number="1128" author="silvia" type="sw" xumber="s11_1128"/>
+		<film number="1129" author="roumen" camera="Canon Prima Super 120" type="sw" xumber="r11_1129"/>
+		<film number="1130" author="silvia" type="sw" xumber="s11_1130" state="missing"/>
+		<film number="1131" author="silvia" type="sw" xumber="s11_1131" state="missing"/>
+		<film number="1132" author="silvia" type="sw" xumber="s11_1132" state="missing"/>
+		<film number="1133" author="silvia" type="sw" xumber="s11_1133" state="missing"/>
+		<film number="1134" author="silvia" type="sw" xumber="s11_1134" state="missing"/>
+		<film number="1135" author="silvia" type="sw" xumber="s11_1133" state="missing"/>
+		<film number="1136" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1136"/>
+		<film number="1137" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1137"/>
+		<film number="1138" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1138"/>
+		<film number="1139" author="roumen" camera="Nikon F80" type="sw" xumber="r11_1139"/>
+		<film number="1140" author="silvia" type="sw" xumber="s21_1140" state="missing"/>
+		<film number="1141" author="silvia" type="sw" xumber="s11_1141" state="missing"/>
+		<film number="1142" author="silvia" type="sw" xumber="s11_1142" state="missing"/>
+		<film number="1143" author="silvia" type="sw" xumber="s11_1143" state="missing"/>
+		<film number="1144" author="silvia" type="sw" xumber="s11_1143" state="missing"/>
+		<film number="1145" author="roumen" camera="Mamiya 645 Pro" type="sw" xumber="r21_1145"/>
+		<film number="1146" author="silvia" type="sw" xumber="s11_1146" state="missing"/>
+		<film number="1147" author="roumen" type="sw" xumber="r31_1147"/>
+		<film number="1148" author="silvia" type="sw" xumber="s11_1148" state="missing"/>
+		<film number="1149" author="silvia" type="sw" xumber="s11_1149" state="missing"/>
+		<film number="1150" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1150"/>
+		<film number="1151" author="silvia" type="sw" xumber="s11_1151" state="missing"/>
+		<film number="1152" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1152"/>
+	<!--Farb Negativ-->
+		<film number="3107" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3107"/>
+		<film number="3108" author="roumen" type="fn" xumber="r32_3108" state="missing"/>
+		<film number="3109" author="roumen" type="fn" xumber="r32_3109" state="missing"/>
+		<film number="3110" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3110"/>
+		<film number="3111" author="roumen" type="fn" xumber="r32_3111" state="missing"/>
+		<film number="3112" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3112"/>
+		<film number="3113" author="roumen" camera="Rolleiflex 3.5T" type="fn" xumber="r32_3113"/>
+		<film number="3114" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3114"/>
+		<film number="3115" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3115"/>
+		<film number="3116" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3116"/>
+		<film number="3117" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3117"/>
+		<film number="3118" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3118"/>
+		<film number="3119" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3119"/>
+		<film number="3120" author="silvia" type="fn" xumber="s12_3120"/>
+		<film number="3121" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3121"/>
+		<film number="3122" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3122"/>
+		<film number="3123" author="silvia" type="fn" xumber="s12_3123"/>
+		<film number="3124" author="silvia" type="fn" xumber="s12_3124"/>
+		<film number="3125" author="silvia" type="fn" xumber="s12_3125"/>
+		<film number="3126" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3126"/>
+		<film number="3127" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3127"/>
+		<film number="3128" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3128"/>
+		<film number="3129" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3129"/>
+		<film number="3130" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3130"/>
+		<film number="3131" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3131"/>
+		<film number="3132" author="silvia" type="fn" xumber="s12_3132"/>
+		<film number="3133" author="roumen" camera="Mamiya 645 Pro" type="fn" xumber="r22_3133"/>
+		<film number="3134" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3134"/>
+	<!--Farb Positiv-->
+		<film number="2060" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2060"/>
+		<film number="2061" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2061"/>
+		<film number="2062" author="silvia" type="fp" xumber="s16_2062"/>
+		<film number="2063" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2063"/>
+		<film number="2064" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2064"/>
+		<film number="2065" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2065"/>
+		<film number="2066" author="roumen" camera="Mamiya 645 Pro" type="fp" xumber="r26_2066"/>
+		<film number="2067" author="silvia" type="fp" xumber="s16_2067"/>
+		<film number="2068" author="silvia" type="fp" xumber="s16_2068"/>
+		<film number="2069" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2069"/>
+		<film number="2070" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2070"/>
+		<film number="2071" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2070"/>
+		<film number="2072" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2071"/>
+	</year>
+<!--Jahr 2003: Corsica-->
+	<year y="2003">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1043" author="roumen" camera="Любитель 2" type="sw" xumber="r31_1043"/>
+		<film number="1044" author="silvia" type="sw" xumber="s11_1044"/>
+		<film number="1045" author="silvia" type="sw" xumber="s11_1045"/>
+		<film number="1046" author="silvia" type="sw" xumber="s11_1046"/>
+		<film number="1047" author="silvia" type="sw" xumber="s11_1047"/>
+		<film number="1048" author="silvia" type="sw" xumber="s11_1048"/>
+		<film number="1049" author="silvia" type="sw" xumber="s11_1049"/>
+		<film number="1050" author="silvia" type="sw" xumber="s11_1050"/>
+		<film number="1051" author="silvia" type="sw" xumber="s11_1051"/>
+		<film number="1052" author="silvia" type="sw" xumber="s11_1052"/>
+		<film number="1053" author="silvia" type="sw" xumber="s11_1053"/>
+		<film number="1054" author="silvia" type="sw" xumber="s11_1054"/>
+		<film number="1055" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1055"/>
+		<film number="1056" author="silvia" type="sw" xumber="s11_1056"/>
+		<film number="1057" author="roumen" camera="Любитель 2" type="sw" xumber="r31_1057"/>
+		<film number="1058" author="silvia" type="sw" xumber="s11_1058"/>
+		<film number="1059" author="silvia" type="sw" xumber="s11_1059"/>
+		<film number="1060" author="silvia" type="sw" xumber="s11_1060"/>
+		<film number="1061" author="silvia" type="sw" xumber="s11_1061"/>
+		<film number="1062" author="silvia" type="sw" xumber="s11_1062"/>
+		<film number="1063" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1063"/>
+		<film number="1064" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1064"/>
+		<film number="1065" author="silvia" type="sw" xumber="s11_1065"/>
+		<film number="1066" author="silvia" type="sw" xumber="s11_1066"/>
+		<film number="1067" author="silvia" type="sw" xumber="s11_1067"/>
+		<film number="1068" author="silvia" type="sw" xumber="s11_1068"/>
+		<film number="1069" author="silvia" type="sw" xumber="s11_1069"/>
+		<film number="1070" rank="0" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1070"/>
+		<film number="1071" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1071" state="incomplete"/>
+		<film number="1072" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1072"/>
+		<film number="1073" author="silvia" type="sw" xumber="s11_1073"/>
+		<film number="1074" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1074"/>
+		<film number="1075" author="silvia" type="sw" xumber="s11_1075"/>
+		<film number="1076" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1076"/>
+		<film number="1077" author="silvia" type="sw" xumber="s11_1077"/>
+		<film number="1078" author="roumen" camera="Canon Prima Super 120" type="sw" xumber="r11_1078"/>
+		<film number="1079" author="roumen" camera="Canon Prima Super 120" type="sw" xumber="r11_1079"/>
+		<film number="1080" author="roumen" camera="Canon Prima Super 120" type="sw" xumber="r11_1080"/>
+		<film number="1081" author="silvia" type="sw" xumber="s11_1081"/>
+		<film number="1082" author="silvia" type="sw" xumber="s11_1082"/>
+		<film number="1083" author="silvia" type="sw" xumber="s11_1083"/>
+	<!--Farb Negativ-->
+		<film number="3080" author="silvia" type="fn" xumber="s12_3080"/>
+		<film number="3081" author="silvia" type="fn" xumber="s12_3081"/>
+		<film number="3082" author="silvia" type="fn" xumber="s12_3082"/>
+		<film number="3083" author="silvia" type="fn" xumber="s12_3083"/>
+		<film number="3084" author="roumen" camera="Canon Prima Super 120" type="fn" xumber="r12_3084"/>
+		<film number="3085" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3085"/>
+		<film number="3086" author="silvia" type="fn" xumber="s12_3086"/>
+		<film number="3087" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3087"/>
+		<film number="3088" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3088"/>
+		<film number="3089" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3089"/>
+		<film number="3090" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3090"/>
+		<film number="3091" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3091"/>
+		<film number="3092" author="silvia" type="fn" xumber="s12_3092"/>
+		<film number="3093" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3093"/>
+		<film number="3094" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3094"/>
+		<film number="3095" author="silvia" type="fn" xumber="s12_3095"/>
+		<film number="3096" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3096"/>
+		<film number="3097" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3097"/>
+		<film number="3098" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3098"/>
+		<film number="3099" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3099"/>
+		<film number="3100" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3100"/>
+		<film number="3101" author="silvia" type="fn" xumber="s12_3101"/>
+		<film number="3102" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3102"/>
+		<film number="3103" author="silvia" type="fn" xumber="s12_3103"/>
+		<film number="3104" author="silvia" type="fn" xumber="s12_3104"/>
+		<film number="3105" author="silvia" type="fn" xumber="s12_3105"/>
+		<film number="3106" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3106"/>
+	<!--Farb Positiv-->
+		<film number="2049" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2049"/>
+		<film number="2050" author="silvia" type="fp" xumber="s16_2050"/>
+		<film number="2051" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2051"/>
+		<film number="2052" author="silvia" type="fp" xumber="s16_2052"/>
+		<film number="2053" author="silvia" type="fp" xumber="s16_2053"/>
+		<film number="2054" author="silvia" type="fp" xumber="s16_2054"/>
+		<film number="2055" author="silvia" type="fp" xumber="s16_2055"/>
+		<film number="2056" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2056"/>
+		<film number="2057" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2057"/>
+		<film number="2058" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2058"/>
+		<film number="2059" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2059"/>
+	</year>
+<!--Jahr 2002: Sri Lanka-->
+	<year y="2002">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1025" author="silvia" type="sw" xumber="s11_1025"/>
+		<film number="1026" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1026"/>
+		<film number="1027" author="silvia" type="sw" xumber="s11_1027"/>
+		<film number="1028" author="roumen" type="sw" xumber="r11_1028"/>
+		<film number="1029" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1029"/>
+		<film number="1030" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1030"/>
+		<film number="1031" author="silvia" type="sw" xumber="s11_1031"/>
+		<film number="1032" author="silvia" type="sw" xumber="s11_1032"/>
+		<film number="1033" author="silvia" type="sw" xumber="s11_1033"/>
+		<film number="1034" author="silvia" type="sw" xumber="s11_1034"/>
+		<film number="1035" author="silvia" type="sw" xumber="s11_1035"/>
+		<film number="1036" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1036"/>
+		<film number="1037" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1037"/>
+		<film number="1038" author="roumen" type="sw" camera="Canon EOS 500N" xumber="r11_1038"/>
+		<film number="1039" author="silvia" type="sw" xumber="s11_1039"/>
+		<film number="1040" author="roumen" camera="Nikon F100" type="sw" xumber="r11_1040"/>
+		<film number="1041" author="roumen" camera="Любитель 2" type="sw" xumber="r31_1041"/>
+		<film number="1042" author="silvia" type="sw" xumber="s11_1042"/>
+	<!--Farb Negativ-->
+		<film number="3057" author="roumen" camera="Canon Prima Super 120" type="fn" xumber="r12_3057"/>
+		<film number="3058" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3058"/>
+		<film number="3059" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3059"/>
+		<film number="3060" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3060"/>
+		<film number="3061" author="silvia" type="fn" xumber="s12_3061"/>
+		<film number="3062" author="silvia" type="fn" xumber="s12_3062"/>
+		<film number="3063" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3063"/>
+		<film number="3064" author="silvia" type="fn" xumber="s12_3064"/>
+		<film number="3065" author="roumen" camera="Canon Prima Super 120" type="fn" xumber="r12_3065"/>
+		<film number="3066" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3066"/>
+		<film number="3067" author="silvia" type="fn" xumber="s12_3067"/>
+		<film number="3068" author="silvia" type="fn" xumber="s12_3068"/>
+		<film number="3069" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3069"/>
+		<film number="3070" author="silvia" type="fn" xumber="s12_3070"/>
+		<film number="3071" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3071"/>
+		<film number="3072" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3072"/>
+		<film number="3073" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3073"/>
+		<film number="3074" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3074"/>
+		<film number="3075" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3075"/>
+		<film number="3076" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3076"/>
+		<film number="3077" author="roumen" camera="Любитель 2" type="fn" xumber="r32_3077"/>
+		<film number="3078" author="silvia" type="fn" xumber="s12_3078"/>
+		<film number="3079" author="roumen" camera="Nikon F100" type="fn" xumber="r12_3079"/>
+	<!--Farb Positiv-->
+		<film number="2036" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2036"/>
+		<film number="2037" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2037"/>
+		<film number="2038" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2038"/>
+		<film number="2039" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2039"/>
+		<film number="2040" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2040"/>
+		<film number="2041" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2041"/>
+		<film number="2042" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2042"/>
+		<film number="2043" author="silvia" type="fp" xumber="s16_2043"/>
+		<film number="2044" author="silvia" type="fp" xumber="s16_2044"/>
+		<film number="2045" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2045"/>
+		<film number="2046" author="silvia" type="fp" xumber="s16_2046"/>
+		<film number="2047" author="roumen" camera="Nikon F100" type="fp" xumber="р16_2047"/>
+		<film number="2048" author="roumen" camera="Nikon F100" type="fp" xumber="r16_2048"/>
+	</year>
+<!--Jahr 2001: Capetown, Italia, Portugal-->
+	<year y="2001">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1024" author="roumen" camera="Canon Prima Super 120" type="sw" xumber="r11_1024"/>
+	<!--Farb Negativ-->
+		<film number="3046" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3046"/>
+		<film number="3047" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3047"/>
+		<film number="3048" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3048"/>
+		<film number="3049" rank="0" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3049"/>
+		<film number="3050" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3050"/>
+		<film number="3051" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3051"/>
+		<film number="3052" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3052"/>
+		<film number="3053" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3053"/>
+		<film number="3054" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3054"/>
+		<film number="3055" author="silvia" type="fn" xumber="s12_3055"/>
+		<film number="3056" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3056"/>
+	<!--Farb Positiv-->
+		<film number="2028" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2028"/>
+		<film number="2029" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2029"/>
+		<film number="2030" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2030"/>
+		<film number="2031" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2031"/>
+		<film number="2032" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2032"/>
+		<film number="2033" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2033"/>
+		<film number="2034" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2034"/>
+		<film number="2035" author="silvia" camera="Canon Prima Super 120"  type="fp" xumber="s16_2035"/>
+	</year>
+<!--Jahr 2000: Jamaica, Italia-->
+	<year y="2000">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1022" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1022"/>
+		<film number="1023" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1023"/>
+	<!--Farb Negativ-->
+		<film number="3039" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3039"/>
+		<film number="3040" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3040"/>
+		<film number="3041" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3041"/>
+		<film number="3042" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3042"/>
+		<film number="3043" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3043"/>
+		<film number="3044" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3044"/>
+		<film number="3045" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3045"/>
+	<!--Farb Positiv-->
+		<film number="2023" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2023"/>
+		<film number="2024" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2024"/>
+		<film number="2025" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2025"/>
+		<film number="2026" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2026"/>
+		<film number="2027" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2027"/>
+	</year>
+	<!--Jahr 1999: Thailand-->
+	<year y="1999">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1021" author="roumen" camera="Canon EOS 500N" type="sw" xumber="r11_1021"/>
+	<!--Farb Negativ-->
+		<film number="3028" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3028"/>
+		<film number="3030" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3030"/>
+		<film number="3031" author="silvia" camera="Carena" type="fn" xumber="s12_3031"/>
+		<film number="3032" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3032"/>
+		<film number="3033" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3033"/>
+		<film number="3034" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3034"/>
+		<film number="3035" author="silvia" camera="Canon EOS 500N" type="fn" xumber="s12_3035"/>
+		<film number="3036" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3036"/>
+		<film number="3037" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3037"/>
+		<film number="3038" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3038"/>
+	<!--Farb Positiv-->
+		<film number="2017" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2017"/>
+		<film number="2018" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2018"/>
+		<film number="2019" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2019"/>
+		<film number="2020" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2020"/>
+		<film number="2021" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2021"/>
+		<film number="2022" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2022"/>
+	</year>
+<!--Jahr 1998-->
+	<year y="1998">
+	<!--Farb Negativ-->
+		<film number="3022" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3022"/>
+		<film number="3023" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3023"/>
+		<film number="3024" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3024"/>
+		<film number="3025" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3025"/>
+		<film number="3026" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3026"/>
+	<!--Farb Positiv-->
+		<film number="2015" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2015"/>
+		<film number="2016" author="roumen" camera="Canon EOS 500N" type="fp" xumber="r16_2016"/>
+	</year>
+<!--Jahr 1997-->
+	<year y="1997">
+	<!--Farb Negativ-->
+		<film number="3013" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3013"/>
+		<film number="3014" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3014"/>
+		<film number="3015" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3015"/>
+		<film number="3016" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3016"/>
+		<film number="3017" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3017"/>
+		<film number="3018" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3018"/>
+		<film number="3019" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3019"/>
+		<film number="3020" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3020"/>
+		<film number="3021" author="roumen" camera="Canon EOS 500N" type="fn" xumber="r12_3021"/>
+	</year>
+<!--Jahr 1996-->
+	<year y="1996">
+	<!--Farb Negativ-->
+		<film number="3011" author="roumen" camera="Зенит ЕТ" type="fn" xumber="r12_3011"/>
+		<film number="3012" author="roumen" camera="Carena" type="fn" xumber="r12_3012"/>
+	</year>
+<!--Jahr 1995-->
+	<year y="1995">
+	<!--Farb Negativ-->
+		<film number="3010" author="roumen" camera="Carena" type="fn" xumber="r12_3010"/>
+	</year>
+<!--Jahr 1994-->
+	<year y="1994">
+	<!--Farb Negativ-->
+		<film number="3006" author="roumen" camera="Carena" type="fn" xumber="r12_3006"/>
+		<film number="3007" author="silvia" camera="Carena" type="fn" xumber="s12_3007"/>
+		<film number="3008" author="silvia" camera="Carena" type="fn" xumber="s12_3008"/>
+		<film number="3009" author="roumen" camera="Зенит ЕТ" type="fn" xumber="r12_3009"/>
+	</year>
+<!--Jahr 1993-->
+	<year y="1993">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1018" author="roumen" type="sw" xumber="r11_1018"/>
+	<!--Farb Negativ-->
+		<film number="3004" author="roumen" type="fn" xumber="r12_3004"/>
+		<film number="3005" author="roumen" type="fn" xumber="r12_3005"/>
+	<!--Farb Positiv-->
+		<film number="2014" author="roumen" type="fp" xumber="r16_2014"/>
+	</year>
+<!--Jahr 1992-->
+	<year y="1992">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1017" author="roumen" type="sw" xumber="r11_1017"/>
+	</year>
+<!--Jahr 1991-->
+	<year y="1991">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1016" author="roumen" type="sw" xumber="r11_1016"/>
+	<!--Farb Positiv-->
+		<film number="2012" author="roumen" type="fp" xumber="r16_2012"/>
+		<film number="2013" author="roumen" type="fp" xumber="r16_2013"/>
+	</year>
+<!--Jahr 1990-->
+	<year y="1990">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1015" author="roumen" type="sw" xumber="r11_1015"/>
+	<!--Farb Negativ-->
+		<film number="3003" author="" type="fn" xumber="x12_3003"/>
+	</year>
+<!--Jahr 1989-->
+	<year y="1989">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1013" author="roumen" type="sw" xumber="r11_1013"/>
+		<film number="1014" author="roumen" type="sw" xumber="r11_1014"/>
+		<film number="1019" author="roumen" type="sw" xumber="r01_1019"/>
+	</year>
+<!--Jahr 1988-->
+	<year y="1988">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1011" author="roumen" type="sw" xumber="r11_1011"/>
+		<film number="1012" author="roumen" type="sw" xumber="r11_1012"/>
+	<!--Farb Negativ-->
+		<film number="3002" author="roumen" type="fn" xumber="r12_3002"/>
+	<!--Farb Positiv-->
+		<film number="2009" author="roumen" type="fp" xumber="r16_2009"/>
+		<film number="2010" author="roumen" type="fp" xumber="r16_2010"/>
+		<film number="2011" author="roumen" type="fp" xumber="r16_2011"/>
+	</year>
+<!--Jahr 1987-->
+	<year y="1987">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1004" author="roumen" type="sw" xumber="r11_1004"/>
+		<film number="1005" author="roumen" type="sw" xumber="r11_1005"/>
+		<film number="1006" author="roumen" type="sw" xumber="r11_1006"/>
+		<film number="1007" author="roumen" type="sw" xumber="r11_1007"/>
+		<film number="1008" author="roumen" type="sw" xumber="r11_1008"/>
+		<film number="1009" author="roumen" type="sw" xumber="r11_1009"/>
+		<film number="1010" author="roumen" type="sw" xumber="r11_1010"/>
+		<film number="1020" author="roumen" type="sw" xumber="r11_1020"/>
+	<!--Farb Negativ-->
+		<film number="3001" author="roumen" type="fn" xumber="r12_3001"/>
+	<!--Farb Positiv-->
+		<film number="2002" author="silvia" type="fp" xumber="s16_2002"/>
+		<film number="2003" author="silvia" type="fp" xumber="s16_2003"/>
+		<film number="2004" author="roumen" type="fp" xumber="r16_2004"/>
+		<film number="2005" author="roumen" type="fp" xumber="r16_2005"/>
+		<film number="2006" author="roumen" type="fp" xumber="r16_2006"/>
+		<film number="2007" author="roumen" type="fp" xumber="r16_2007"/>
+		<film number="2008" author="roumen" type="fp" xumber="r16_2008"/>
+	</year>
+<!--Jahr 1986-->
+	<year y="1986">
+	<!--Schwarz Weiß Negativ-->
+		<film number="1001" author="roumen" type="sw" xumber="r11_1001"/>
+		<film number="1002" author="silvia" type="sw" xumber="s11_1002"/>
+		<film number="1003" author="roumen" type="sw" xumber="r11_1003"/>
+	<!--Farb Positiv-->
+		<film number="2001" author="silvia" type="fp" xumber="s16_2001"/>
+	</year>
+</catalog>

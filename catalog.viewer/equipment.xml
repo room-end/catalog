@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipment>
+	<label name="Canon">
+		<position name="Canon 85/1.2 Asph" system="FD" type="lens">
+			<lens focal_length="85" aperture="1.2" filter="72"/>
+			<since>19.07.2007</since>
+			<SN>3132434</SN>
+			<price bought="420" list="870"/>
+		</position>
+	</label>
+	<label name="Nikon">
+    <position name="F80" system="F" type="camera">
+      <since></since>
+      <SN></SN>
+      <price bought="500" />
+    </position>
+    <position name="F100" system="F" type="camera">
+      <since></since>
+      <SN></SN>
+      <price bought="300" />
+    </position>
+  </label>
+  <label name="Minolta">
+    <position name="XD7" system="MD" type="camera">
+      <since></since>
+      <SN></SN>
+      <price bought="90" />
+    </position>
+  </label>
+  <label name="Konica">
+ 
+  </label>
+  <label name="Olympus">
+    
+  </label>
+  <label name="Mamiya">
+    
+  </label>
+  <label name="Rollei">
+    
+  </label>
+</equipment>

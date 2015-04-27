@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="catalog">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="year"/>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="year">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="0" ref="film"/>
+			</xs:sequence>
+			<xs:attribute name="y" type="xs:integer" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="film">
+		<xs:complexType>
+			<xs:attribute name="number" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:minInclusive value="1001"/>
+						<xs:maxInclusive value="4999"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="author" use="required" >
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="ivana"/>
+						<xs:enumeration value="roumen"/>
+						<xs:enumeration value="silvia"/>
+						<xs:enumeration value=""/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="camera" type="xs:string" />
+			<xs:attribute name="type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="fn"/>
+						<xs:enumeration value="sw"/>
+						<xs:enumeration value="fp"/>
+						<xs:enumeration value="sd"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="xumber" use="required"/>
+			<xs:attribute name="state" type="xs:string"/>
+			<xs:attribute name="incomplete" type="xs:boolean"/>
+			<xs:attribute name="rank" type="xs:integer"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
